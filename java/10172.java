@@ -7,8 +7,8 @@ public class Main {
    	System.out.println("||_/=\\\\__|");
   }
 }
-    
-    
+
+
 |\_/|
 |q p|   /}
 ( 0 )"""\
